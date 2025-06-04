@@ -10,7 +10,7 @@ namespace RectangeStruct.UnitTests
             var rect = new Rectangle(2.5, 4.0);
             Assert.That(rect.Width, Is.EqualTo(2.5));
             Assert.That(rect.Height, Is.EqualTo(4.0));
-        }
+        } 
 
         [TestCase(2.5, 4.0)]
         [TestCase(1.0, 1.0)]
