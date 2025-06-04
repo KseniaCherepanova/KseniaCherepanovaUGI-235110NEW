@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDish", "ClassDish.csproj", "{D209B37A-B99B-433F-81EF-B54B21EEAD5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dishes.UnitTests", "..\Dishes.UnitTests\Dishes.UnitTests.csproj", "{2CD98A79-1613-47D4-84DB-56A631C52F58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D209B37A-B99B-433F-81EF-B54B21EEAD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D209B37A-B99B-433F-81EF-B54B21EEAD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D209B37A-B99B-433F-81EF-B54B21EEAD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D209B37A-B99B-433F-81EF-B54B21EEAD5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CD98A79-1613-47D4-84DB-56A631C52F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD98A79-1613-47D4-84DB-56A631C52F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD98A79-1613-47D4-84DB-56A631C52F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD98A79-1613-47D4-84DB-56A631C52F58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D212FA5-8DDE-46F3-8847-67B1ACB694BE}
+	EndGlobalSection
+EndGlobal
